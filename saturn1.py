@@ -3,3 +3,6 @@ mimas
 dione
 rhea
 hyperion
+tethys
+phoebe
+pan
